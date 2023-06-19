@@ -1,0 +1,63 @@
+.form {
+  border: 1px solid black;
+  width: 20%;
+  margin: 0 auto;
+  position: relative;
+  margin-top:20px;
+  min-height: 100px;
+  background: white;
+}
+
+.form p {
+  word-break: break-word;
+  background: white;
+
+}
+
+.form_username{
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 20px;
+  border: 1px solid black;
+  border-left: none;
+  border-top: none;
+}
+.form_body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width:80%;
+  margin: 0 auto;
+  padding-top:30px;
+  font-size: 18px;
+
+}
+
+.input_form{
+  position: relative;
+  padding-bottom:20px;
+  width: 20%;
+  margin: 0 auto;
+
+}
+
+.btn_del{
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: 300px;
+  padding: 3px 6px;
+  border: none;
+  background-color: lightblue;
+
+}
+
+.btn_add{
+  color: white;
+  border: none;
+  background-color: blue;
+  padding: 3px 10px;
+  float:right;
+}
+

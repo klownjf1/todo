@@ -1,0 +1,13 @@
+.input{
+    border: 1px solid;
+    min-height: 100px;
+    width: 100%;
+
+    vertical-align: top;
+    resize: none;
+    font-size: 18px;
+    background: white;
+
+
+
+}
